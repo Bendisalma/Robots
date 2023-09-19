@@ -155,5 +155,12 @@ public class RobotController : Controller
         return View();
     }
 
+    public IActionResult SearchByCountry(string country)
+    {
+        var robots = robotData.GetRobotsByCountry(country);
+
+        return View("WantedRobotList", robots);
+    }
+
 }
 

@@ -13,6 +13,6 @@ public static class CountryList
         "Mexique", "Népal", "Nigéria", "Pakistan", "Pays-Bas",
         "Pérou", "Philippines", "Pologne", "Royaume-Uni", "Russie",
         "Sénégal", "Soudan", "Suède", "Tanzanie", "Thaïlande",
-        "Turquie", "Ukraine", "Vietnam","Maroc"
+        "Turquie", "Ukraine", "Vietnam","Maroc","Palestine"
     };
 }

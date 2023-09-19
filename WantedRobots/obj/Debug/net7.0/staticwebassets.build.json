@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SuUKRyjG8H2cS/W+XZnfsY/m12lMm0UIn8v3awfPdi0=",
+  "Hash": "NH20ED6iLdW5+j7MdW4ob9omFECo2tn2MBUKsCW2LjY=",
   "Source": "WantedRobots",
   "BasePath": "_content/WantedRobots",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Robots\\WantedRobots\\wwwroot\\images\\404error.jpg",
+      "SourceId": "WantedRobots",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Robots\\WantedRobots\\wwwroot\\",
+      "BasePath": "_content/WantedRobots",
+      "RelativePath": "images/404error.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\404error.jpg"
     },
     {
       "Identity": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Robots\\WantedRobots\\wwwroot\\js\\site.js",

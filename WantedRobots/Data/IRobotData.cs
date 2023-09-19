@@ -12,5 +12,6 @@ public interface IRobotData
     public Robot GetRobotByName(string nomRobot);
     public void UpdateRobotPays(int idRobot, string nouveauPays);
     public void DeleteRobot(int idRobot);
+    List<Robot> GetRobotsByCountry(string country);
 
 }

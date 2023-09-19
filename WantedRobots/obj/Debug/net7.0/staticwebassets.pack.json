@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Robots\\WantedRobots\\wwwroot\\images\\404error.jpg",
+      "PackagePath": "staticwebassets\\images\\404error.jpg"
+    },
+    {
       "Id": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Robots\\WantedRobots\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
