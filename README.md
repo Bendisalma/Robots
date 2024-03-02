@@ -15,6 +15,9 @@ SQL Server
 ## Fonctionnalités Principales
 
 Répertorier les robots recherchés avec leurs détails (nom, taille, poids, pays).
+
 Accès aux détails des robots via leur identifiant.
+
 Ajouter, mettre à jour et supprimer des robots.
+
 Rechercher un robot par son identifiant.
